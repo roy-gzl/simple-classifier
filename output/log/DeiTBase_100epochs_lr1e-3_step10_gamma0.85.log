@@ -1,0 +1,11 @@
+2026-08-20 15:14:24,943 [INFO] Experiment: DeiTBase_100epochs_lr1e-3_step10_gamma0.85 | epochs=10, lr=0.001, step_size=10, gamma=0.85
+2026-08-20 15:18:22,438 [INFO] Epoch [1/10], Loss: 0.0371, Test Accuracy: 99.4400%
+2026-08-20 15:22:22,413 [INFO] Epoch [2/10], Loss: 0.0199, Test Accuracy: 99.2400%
+2026-08-20 15:26:23,996 [INFO] Epoch [3/10], Loss: 0.0182, Test Accuracy: 99.2800%
+2026-08-20 15:30:26,568 [INFO] Epoch [4/10], Loss: 0.0184, Test Accuracy: 99.2000%
+2026-08-20 15:34:30,822 [INFO] Epoch [5/10], Loss: 0.0184, Test Accuracy: 99.1800%
+2026-08-20 15:38:35,167 [INFO] Epoch [6/10], Loss: 0.0166, Test Accuracy: 99.2800%
+2026-08-20 15:42:38,222 [INFO] Epoch [7/10], Loss: 0.0144, Test Accuracy: 99.1000%
+2026-08-20 15:46:38,535 [INFO] Epoch [8/10], Loss: 0.0144, Test Accuracy: 99.2200%
+2026-08-20 15:50:43,228 [INFO] Epoch [9/10], Loss: 0.0161, Test Accuracy: 99.3800%
+2026-08-20 15:54:47,360 [INFO] Epoch [10/10], Loss: 0.0154, Test Accuracy: 99.2600%

@@ -1,0 +1,11 @@
+2026-08-20 17:27:01,571 [INFO] Experiment: DeiTBase_food101_100epochs_lr1e-3_step10_gamma0.85 | epochs=10, lr=0.0001, step_size=10, gamma=0.85
+2026-08-20 18:05:32,018 [INFO] Epoch [1/10], Loss: 2.6960, Test Accuracy: 58.0317%
+2026-08-20 18:25:13,812 [INFO] Epoch [2/10], Loss: 1.7664, Test Accuracy: 63.6396%
+2026-08-20 18:43:46,886 [INFO] Epoch [3/10], Loss: 1.5476, Test Accuracy: 66.0238%
+2026-08-20 19:02:11,410 [INFO] Epoch [4/10], Loss: 1.4344, Test Accuracy: 67.8139%
+2026-08-20 19:20:35,933 [INFO] Epoch [5/10], Loss: 1.3551, Test Accuracy: 69.1248%
+2026-08-20 19:39:53,505 [INFO] Epoch [6/10], Loss: 1.2990, Test Accuracy: 69.7743%
+2026-08-20 19:59:13,848 [INFO] Epoch [7/10], Loss: 1.2565, Test Accuracy: 70.4792%
+2026-08-20 20:17:43,325 [INFO] Epoch [8/10], Loss: 1.2231, Test Accuracy: 70.8594%
+2026-08-20 20:37:14,262 [INFO] Epoch [9/10], Loss: 1.1910, Test Accuracy: 71.5248%
+2026-08-20 20:55:44,105 [INFO] Epoch [10/10], Loss: 1.1638, Test Accuracy: 71.8416%
